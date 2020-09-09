@@ -1,10 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 08, 2020 
+### Day 1: Sept 08, Tuesday, 2020
 
 **Today's Progress**: Worked on creating theme for my Pet Adoption app using Context API. 
 
 **Thoughts:** Read about Context API majorly from the React Docs. Found it interesting in terms of usage. 
+
+### Day 1: Sept 09, Wednesday, 2020
+
+**Today's Progress**: Continued working on my Pet Adoption app. 
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
